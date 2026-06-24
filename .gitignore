@@ -1,0 +1,12 @@
+# Système
+.DS_Store
+Thumbs.db
+
+# Éditeurs
+.vscode/
+.idea/
+*.suo
+
+# Fichiers sensibles
+.env
+config.local.js
